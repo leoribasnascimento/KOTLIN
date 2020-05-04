@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5a4ceef-7884-4744-a861-e941acf75e61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ayAJXzkeqAliTat7P23hHeZZ1L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ex000Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinM00" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Ex000Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ex000Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Plugins" timestamp="1587698287827">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Plugins/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1587698287827" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1587698245594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1587698245594" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1587698245594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1587698245594" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1587698245594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1587698245594" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1587698245594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1587698245594" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587697709128">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1587697709128" />
+    <state x="302" y="24" key="new project wizard" timestamp="1587700733484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="302" y="24" key="new project wizard/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1587700733484" />
+  </component>
+</project>
