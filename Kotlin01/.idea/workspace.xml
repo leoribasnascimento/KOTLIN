@@ -23,8 +23,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.AmbienteKt">
-    <configuration name="AmbienteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Ex005Kt">
+    <configuration name="AmbienteKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <module name="Kotlin01" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -50,33 +50,110 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex003Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exercicios.Ex003Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex004Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exercicios.Ex004Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex005Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exercicios.Ex005Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.AmbienteKt" />
+        <item itemvalue="Kotlin.Ex005Kt" />
+        <item itemvalue="Kotlin.Ex004Kt" />
+        <item itemvalue="Kotlin.Ex003Kt" />
         <item itemvalue="Kotlin.Ex001Kt" />
       </list>
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1588563742652">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="-1048" y="167" key="#Plugins" timestamp="1590200964554">
+      <screen x="-2560" y="0" width="2560" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588563742652" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1588563742652">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="-1048" y="167" key="#Plugins/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590200964554" />
+    <state x="-1186" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590879236444">
+      <screen x="-2560" y="0" width="2560" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588563742652" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1588563742652">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="-1186" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590879236444" />
+    <state x="-960" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1590200775111">
+      <screen x="-2560" y="0" width="2560" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588563742652" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1588563742652">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="-960" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590200775111" />
+    <state width="1264" height="976" key="GridCell.Tab.0.bottom" timestamp="1590894272755">
+      <screen x="-2560" y="0" width="2560" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588563742652" />
+    <state width="1264" height="976" key="GridCell.Tab.0.bottom/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590894272755" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588636525943" />
+    <state width="1264" height="976" key="GridCell.Tab.0.center" timestamp="1590894272755">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1264" height="976" key="GridCell.Tab.0.center/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590894272755" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588636525943" />
+    <state width="1264" height="976" key="GridCell.Tab.0.left" timestamp="1590894272755">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1264" height="976" key="GridCell.Tab.0.left/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590894272755" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588636525943" />
+    <state width="1264" height="976" key="GridCell.Tab.0.right" timestamp="1590894272755">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1264" height="976" key="GridCell.Tab.0.right/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590894272755" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588636525943" />
+    <state width="1242" height="340" key="GridCell.Tab.1.bottom" timestamp="1590890479441">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1242" height="340" key="GridCell.Tab.1.bottom/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590890479441" />
+    <state width="1242" height="340" key="GridCell.Tab.1.center" timestamp="1590890479441">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1242" height="340" key="GridCell.Tab.1.center/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590890479441" />
+    <state width="1242" height="340" key="GridCell.Tab.1.left" timestamp="1590890479441">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1242" height="340" key="GridCell.Tab.1.left/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590890479441" />
+    <state width="1242" height="340" key="GridCell.Tab.1.right" timestamp="1590890479441">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1242" height="340" key="GridCell.Tab.1.right/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590890479441" />
     <state x="302" y="24" key="new project wizard" timestamp="1588553969889">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="302" y="24" key="new project wizard/0.0.1280.680/-2560.0.2560.1040@0.0.1280.680" timestamp="1588553969889" />
+    <state x="-977" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1590289646062">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state x="-977" y="238" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1590289646062" />
   </component>
 </project>
